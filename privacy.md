@@ -1,5 +1,5 @@
 Inventracker — Privacy Policy
-Effective date: [today's date]
+Effective date: 06/06/2026
 What we collect:
 Nothing. Inventracker is a local-only app. All your inventory, customer, invoice, payment, and stock-movement data is stored only on your device, encrypted at rest.
 We do not collect, transmit, store, or have access to any of this data. No analytics, no telemetry, no usage tracking is sent from the app.
